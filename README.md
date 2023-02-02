@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rushank Patil</h1>
-<h3 align="center">A passionate Business Intelligence Analyst living in Germany</h3>
+<h3 align="center">A passionate Data analytics engineer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rushank7" alt="rushank7" /></a> </p>
 
